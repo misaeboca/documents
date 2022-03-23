@@ -2,6 +2,7 @@ Repositorio:
 
 Instrucciones de instalacion
 1.- Clone el repositorio en su local
+#git clone https://github.com/misaeboca/documents.git
 
 2.- Ubiquese en el dierectorio documents (nombre del proyecto de su local) y ejecute el siguiente comando
 
